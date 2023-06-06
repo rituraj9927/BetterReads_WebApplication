@@ -1,4 +1,4 @@
-#BetterReads Web Application
+#Readsbetter Web Application
 Companion code for the Java Brains code with me series.
 
 Prerequisites:
